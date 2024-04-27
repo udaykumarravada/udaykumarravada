@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @udaykumarravada
+- 👋 Hi, I’m @uday
 - 👀 I’m interested in quantitative finance and machine learing 
 - 🌱 I’m currently learning ML  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me udaykumarravada@gmail.com
 
 <!---
 udaykumarravada/udaykumarravada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
